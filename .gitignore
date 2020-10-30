@@ -10,3 +10,9 @@
 # Ignore all local history of files
 .history
 .ionide
+
+### Custom entries
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
