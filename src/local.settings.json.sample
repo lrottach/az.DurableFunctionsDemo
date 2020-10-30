@@ -1,0 +1,11 @@
+﻿{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=xxxxxxxxxx;AccountKey=XXXXXXXXXXXXXXXXXXXXXX==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureADAppTenantId": "YOUR-TENANT-ID-HERE",
+    "AzureADAppClientId": "YOUR-CLIENT-APPLICATION-ID-HERE",
+    "AzureADAppClientSecret": "YOUR-CLIENT-SECRET-HERE",
+    "AzureADAppRedirectUri": "REDIRECT-URI-HERE"
+  }
+}
