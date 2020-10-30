@@ -6,8 +6,9 @@ using Microsoft.Azure.WebJobs.Extensions.DurableTask;
 using Microsoft.Azure.WebJobs.Extensions.Http;
 using Microsoft.Azure.WebJobs.Host;
 using Microsoft.Extensions.Logging;
+using DarkContoso.DurableFunction.Authentication;
 
-namespace DarkContoso.DurableFunction.Skills
+namespace DarkContoso.DurableFunction
 {
     public static class DurableFunctionsOrchestration
     {
